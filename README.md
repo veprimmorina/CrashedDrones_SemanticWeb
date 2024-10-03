@@ -2,9 +2,9 @@ Title: Integrating UAV Crash Data into a Semantic Web Framework for Enhanced Ope
 
 Scope of the Domain: This project focuses on the domain of Unmanned Aerial Vehicles (UAVs), specifically 'killer drones,' within a Semantic Web context. The primary goal is to integrate and analyze crash data for these UAVs to gain insights that contribute to improved safety standards, operational efficiency, and strategic decision-making. This involves handling diverse datasets, including crash incidents, drone specifications, maintenance records, and potentially external data such as weather conditions.
 
-Work Methodology:
-
-CSV Data Analysis
+Work Methodology
+----------------------------------------------------------------------------------------------------------------------------------
+CSV Data Analysis:
 A thorough examination of existing CSV datasets containing details of UAV crash events is conducted. This includes understanding the data structure and identifying key elements such as the date and time of the crash, drone models, crash locations, and reasons for the crash.
 
 RDF Schema Design
